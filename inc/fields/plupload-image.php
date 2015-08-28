@@ -102,9 +102,9 @@ if ( ! class_exists( 'RWMB_Plupload_Image_Field' ) )
 				$meta = ( array ) $meta;
 
 			// Filter to change the drag & drop box background string
-			$i18n_drop   = apply_filters( 'rwmb_plupload_image_drop_string', _x( 'Drop images here', 'image upload', 'meta-box' ), $field );
-			$i18n_or     = apply_filters( 'rwmb_plupload_image_or_string', _x( 'or', 'image upload', 'meta-box' ), $field );
-			$i18n_select = apply_filters( 'rwmb_plupload_image_select_string', _x( 'Select Files', 'image upload', 'meta-box' ), $field );
+			$i18n_drop   = apply_filters( 'rwmb_plupload_image_drop_string', __( 'Drop images here', 'meta-box' ), $field );
+			$i18n_or     = apply_filters( 'rwmb_plupload_image_or_string', __( 'or', 'meta-box' ), $field );
+			$i18n_select = apply_filters( 'rwmb_plupload_image_select_string', __( 'Select Files', 'meta-box' ), $field );
 
 			// Uploaded images
 
