@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Meta Box 4.3.10\n"
 "Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/meta-box\n"
 "POT-Creation-Date: 2015-08-28 23:44+0300\n"
-"PO-Revision-Date: 2015-08-28 23:46+0300\n"
+"PO-Revision-Date: 2015-09-02 11:09+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru_RU\n"
@@ -577,7 +577,7 @@ msgstr ""
 
 #: inc/fields/map.php:46
 msgid "Find Address"
-msgstr ""
+msgstr "Найти адрес на карте"
 
 #: inc/fields/oembed.php:55
 msgid "Embed HTML not available."
